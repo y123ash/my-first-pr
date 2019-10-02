@@ -3,6 +3,7 @@
 
 ### Instructions:
 
+1. Fork the repository..
 1. Fork the repository........
 
 2. Append your username to the Contributers Section in this file in the following format:
@@ -131,6 +132,7 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+- [@jayraikhere](https://github.com/jayraikhere)
 
 - [@P0l0nium](https://github.com/P0l0nium)
 
