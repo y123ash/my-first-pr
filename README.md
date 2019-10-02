@@ -135,6 +135,8 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+
+- [@manishprivet](https://github.com/manishprivet)
 - [@klakshya17] (https://github.com/klakshya17)
 - [@klakshya17] (https://github.com/klakshya17)
 - [@ImAkhil24](https://github.com/ImAkhil24)
