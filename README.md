@@ -7,7 +7,7 @@
 
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
-3. Make a Pull Request (PR) via github.
+3. Make a Pull Request (PR) via github..
 
 ## Contributors:
 - [@dhananjay510](https://github.com/dhananjay510)
@@ -131,4 +131,10 @@
 - [@karthikianala](https://github.com/karthikianala)
 -[@pranav-msc](https://github.com/pranav-msc)
 
+ - [@ajinkya359](https://github.com/ajinkya359)
+ - [@ajinkya359](https://github.com/ajinkya359)
+ 
+ - [@ajinkya359](https://github.com/ajinkya359)
+
+ - [@ajinkya359](https://github.com/ajinkya359)
 - [@harshitmoriya](https://github.com/Harshitmoriya)
