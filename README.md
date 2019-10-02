@@ -124,3 +124,5 @@
 -[@pranav-msc](https://github.com/pranav-msc)
 
 - [@harshitmoriya](https://github.com/Harshitmoriya)
+
+-[@Magraa](https://github.com/Magraa)
