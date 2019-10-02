@@ -113,6 +113,7 @@
 - [@aditisingh2362](https://github.com/aditisingh2362)
 
 -[@aditiii23](https://github.com/aditiii23)
+-[@akshat45](https://github.com/akshat45)
 
 -[@palakjain21](http://github.com/palakjain21)
 -[@akshat45](https://github.com/akshat45)
