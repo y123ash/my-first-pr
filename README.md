@@ -114,4 +114,6 @@
 
 -[@aditiii23](https://github.com/aditiii23)
 
+-[@pranav-msc](https://github.com/pranav-msc)
+
 - [@harshitmoriya](https://github.com/Harshitmoriya)
