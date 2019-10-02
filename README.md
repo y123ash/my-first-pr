@@ -10,6 +10,7 @@
 3. Make a Pull Request (PR) via github.
 
 ## Contributors:
+- [@rohitkv77-g](https://github.com/rohitkv-g)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
