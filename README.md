@@ -143,3 +143,5 @@
  - [@ajinkya359](https://github.com/ajinkya359)
 - [@harshitmoriya](https://github.com/Harshitmoriya)
 
+-[@Magraa](https://github.com/Magraa)
+
