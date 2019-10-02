@@ -14,6 +14,8 @@
 
 - [@AlternateF4](https://github.com/AlternateF4)
 
+- [@bhch1507](https://github.com/bhch1507)
+
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
 - [@prmsrswt](https://github.com/prmsrswt)
@@ -84,7 +86,7 @@
 
 - [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
 
-- [@sonivishal9708](https://github.com/sonivishal9708)
+- [@sonivishal708](https://github.com/sonivishal9708)
 
 - [@Striker](https://github.com/Striker)
 
@@ -111,6 +113,8 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+
+
 
 - [@aditisingh2362](https://github.com/aditisingh2362)
 
