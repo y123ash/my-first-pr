@@ -152,6 +152,10 @@
 
 - [@Helkat](https://github.com/Helkat)
 
+- [@4molybdenum2](https://github.com/4molybdenum2)
+
+- [@JithendraKanamarlapudi](https://github.com/JithendraKanamarlapudi)
+=======
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
@@ -259,3 +263,4 @@
 - [@harshitmoriya](https://github.com/Harshitmoriya)
 
 -[@Magraa](https://github.com/Magraa)
+
