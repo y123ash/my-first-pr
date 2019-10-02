@@ -99,6 +99,8 @@
 
 - [@AnimatedAnand](https://github.com/AnimatedAnand)
 
+- [@Shubh-2402](https://github.com/Shubh-2402)
+
 - [@Prime-5](https://github.com/Prime-5)
 
 - [@FLasH5858](https://github.com/FLasH5858)
