@@ -108,4 +108,4 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
-- [@Kumar_Lakshya] (https://github.com/klakshya17)
+- [@klakshya17] (https://github.com/lakshya)
