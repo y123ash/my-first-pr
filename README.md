@@ -81,7 +81,7 @@
 
 - [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
 
-- [@sonivishal9708](https://github.com/sonivishal9708)
+- [@sonivishal708](https://github.com/sonivishal9708)
 
 - [@Striker](https://github.com/Striker)
 
@@ -108,4 +108,4 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
--[@bhch1507](https://github.com/bhch1507)
+[@bhch1507](https://github.com/bhch1507)
