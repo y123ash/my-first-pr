@@ -8,6 +8,9 @@
 
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
+
+3. Make a Pull Request (PR) via github and it will make u assure to learn github.
+=======
 1. Fork the repository..
 
 2. Append your username to the Contributers Section in this file in the following format:
@@ -15,10 +18,14 @@
 3. Make a Pull Request (PR) via github...
 3. Make a Pull Request (PR) via github..
 
+
 ## Contributors:
+
 
 -[@Raunakk02](https://github.com/Raunakk02)
 =======
+- [@Sac@github@2019](https://github.com/Sac@github@2019)
+
 - [@kunaljain0212](https://github.com/kunaljain0212)
 	
 - [@harshitkd](https://github.com/harshitkd)
@@ -116,6 +123,8 @@
 
 - [@Striker](https://github.com/Striker)
 
+- [@Mohit123singh](https://github.com/Mohit123singh)
+
 - [@sagastha](https://github.com/sagastha)
 
 - [@Piyush-Chetwani](https://github.com/Piyush-Chetwani)
@@ -139,6 +148,13 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+
+
+-[@aditiii23](https://github.com/aditiii23)
+=======
+- [@Krishna-Gandhi](https://github.com/Krishna-Gandhi)
+
+
 
 
 - [@PrateekSingh009](https://github.com/PrateekSingh009)
