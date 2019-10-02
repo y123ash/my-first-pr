@@ -45,6 +45,9 @@
 
 - [@bhanu3509](https://github.com/bhanu3509)
 
+- [Alok02Jha](https://github.com/Alok02Jha)
+-[@Alok02Jha](https://github.com/Alok02Jha)
+
 - [@nehalgupta13](https://github.com/nehalgupta13)
 
 - [@KartikShukla2001](https://github.com/KaritkShukla2001)
@@ -121,6 +124,7 @@
 
 - [@Helkat](https://github.com/Helkat)
 
+- [@4molybdenum2](https://github.com/4molybdenum2)
 - [@hs2361](https://github.com/hs2361) :smile:
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
