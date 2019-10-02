@@ -37,7 +37,7 @@
 
 - [@bhanu3509](https://github.com/bhanu3509)
 
--[@KartikShukla2001](https://github.com/KaritkShukla2001)
+- [@KartikShukla2001](https://github.com/KaritkShukla2001)
 
 - [@sastava007](https://github.com/sastava007)
 
