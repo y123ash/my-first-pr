@@ -1,4 +1,4 @@
- This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+ This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
 ### Instructions:
@@ -10,7 +10,11 @@
 3. Make a Pull Request (PR) via github..
 
 ## Contributors:
+- [@dhananjay510](https://github.com/dhananjay510)
+
 - [@AlternateF4](https://github.com/AlternateF4)
+
+- [@bhch1507](https://github.com/bhch1507)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
@@ -82,7 +86,7 @@
 
 - [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
 
-- [@sonivishal9708](https://github.com/sonivishal9708)
+- [@sonivishal708](https://github.com/sonivishal9708)
 
 - [@Striker](https://github.com/Striker)
 
@@ -110,9 +114,22 @@
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
+
+
 - [@aditisingh2362](https://github.com/aditisingh2362)
 
 -[@aditiii23](https://github.com/aditiii23)
+-[@akshat45](https://github.com/akshat45)
+
+- [@deependrayadav](https://github.com/deependrayadav)
+-[@Niketan0109](https://github.com/Niketan0109
+-[@raikherejay](https;//github.com/raikherejay)
+
+
+-[@palakjain21](http://github.com/palakjain21)
+-[@akshat45](https://github.com/akshat45)
+- [@karthikianala](https://github.com/karthikianala)
+-[@pranav-msc](https://github.com/pranav-msc)
 
  - [@ajinkya359](https://github.com/ajinkya359)
  - [@ajinkya359](https://github.com/ajinkya359)
@@ -120,4 +137,4 @@
  - [@ajinkya359](https://github.com/ajinkya359)
 
  - [@ajinkya359](https://github.com/ajinkya359)
-Gsggsshshhsssbbbsdb
+- [@harshitmoriya](https://github.com/Harshitmoriya)
