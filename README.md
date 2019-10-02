@@ -3,6 +3,10 @@
 
 ### Instructions:
 
+1. Fork the repository........
+
+2. Append your username to the Contributers Section in this file in the following format:
+	`- [@username](https://github.com/username)`
 1. Fork the repository..
 
 2. Append your username to the Contributers Section in this file in the following format:
@@ -124,6 +128,9 @@
 
 - [@Helkat](https://github.com/Helkat)
 
+
+- [@niketan-byte](https://github.comm/niketan-byte)
+- [@niketan-byte](https://github.comm/niketan-byte)
 - [@4molybdenum2](https://github.com/4molybdenum2)
 - [@hs2361](https://github.com/hs2361) :smile:
 
