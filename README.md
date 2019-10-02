@@ -113,5 +113,15 @@
 - [@aditisingh2362](https://github.com/aditisingh2362)
 
 -[@aditiii23](https://github.com/aditiii23)
+-[@akshat45](https://github.com/akshat45)
 
 -[@Niketan0109](https://github.com/Niketan0109
+-[@raikherejay](https;//github.com/raikherejay)
+
+
+-[@palakjain21](http://github.com/palakjain21)
+-[@akshat45](https://github.com/akshat45)
+- [@karthikianala](https://github.com/karthikianala)
+-[@pranav-msc](https://github.com/pranav-msc)
+
+- [@harshitmoriya](https://github.com/Harshitmoriya)
