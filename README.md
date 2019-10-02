@@ -47,6 +47,8 @@
 
 - [@blair-d](https://github.com/blair-d)
 
+-[@Gurjotsingh2002](https://github.com/Gurjotsingh2002)
+
 - [@balu14012001](https://github.com/BALAJIRAO676)
 
 - [@ashraygupta001](http://github.com/ashraygupta001)
