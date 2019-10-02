@@ -11,7 +11,6 @@
 
 ## Contributors:
 
-- [@adijr9487](https://github.com/adijr9487)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
@@ -110,3 +109,5 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+
+- [@adijr9487](https://github.com/adijr9487)
