@@ -107,6 +107,7 @@
 
 - [@Helkat](https://github.com/Helkat)
 
+- [@hs2361](https://github.com/hs2361) :smile:
+
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
-- [@hs2361](https://github.com/hs2361) :smile:
