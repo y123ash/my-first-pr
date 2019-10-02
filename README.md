@@ -1,4 +1,4 @@
- This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+ This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
 ### Instructions:
@@ -7,9 +7,14 @@
 
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
-3. Make a Pull Request (PR) via github.
+3. Make a Pull Request (PR) via github..
 
 ## Contributors:
+- [@dhananjay510](https://github.com/dhananjay510)
+
+- [@AlternateF4](https://github.com/AlternateF4)
+
+- [@bhch1507](https://github.com/bhch1507)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
@@ -37,6 +42,10 @@
 
 - [@bhanu3509](https://github.com/bhanu3509)
 
+- [@KartikShukla2001](https://github.com/KaritkShukla2001)
+
+
+- [@Sac@github@2019](https://github.com/Sac@github@2019)
 - [@sastava007](https://github.com/sastava007)
 
 - [@sar99](https://github.com/sar99)
@@ -81,7 +90,7 @@
 
 - [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
 
-- [@sonivishal9708](https://github.com/sonivishal9708)
+- [@sonivishal708](https://github.com/sonivishal9708)
 
 - [@Striker](https://github.com/Striker)
 
@@ -109,3 +118,33 @@
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 - [@ashish1198](https://github.com/ashish1198)
+
+- [@Samar787](https://github.com/Samar787)
+- [@vishnuiiit](https://github.com/vishnuiiit)
+
+
+- [@aditisingh2362](https://github.com/aditisingh2362)
+
+-[@aditiii23](https://github.com/aditiii23)
+-[@akshat45](https://github.com/akshat45)
+
+- [@deependrayadav](https://github.com/deependrayadav)
+-[@Niketan0109](https://github.com/Niketan0109
+-[@raikherejay](https;//github.com/raikherejay)
+
+
+-[@palakjain21](http://github.com/palakjain21)
+-[@akshat45](https://github.com/akshat45)
+- [@karthikianala](https://github.com/karthikianala)
+-[@pranav-msc](https://github.com/pranav-msc)
+
+ - [@ajinkya359](https://github.com/ajinkya359)
+ - [@ajinkya359](https://github.com/ajinkya359)
+ 
+ - [@ajinkya359](https://github.com/ajinkya359)
+
+ - [@ajinkya359](https://github.com/ajinkya359)
+- [@harshitmoriya](https://github.com/Harshitmoriya)
+
+-[@Magraa](https://github.com/Magraa)
+
