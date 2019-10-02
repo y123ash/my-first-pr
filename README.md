@@ -136,6 +136,7 @@
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
+- [@PrateekSingh009](https://github.com/PrateekSingh009)
 - [@manishprivet](https://github.com/manishprivet)
 - [@klakshya17] (https://github.com/klakshya17)
 - [@klakshya17] (https://github.com/klakshya17)
