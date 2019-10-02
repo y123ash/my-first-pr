@@ -1,6 +1,7 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
+
 ### Instructions:
 
 1. Fork the repository.
@@ -108,3 +109,5 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+
+- [@sushantbasak](https://github.com/sushantbasak)
