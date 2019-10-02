@@ -1,13 +1,16 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
-### Instructions:
+#### Instructions:
 
 1. Fork the repository..
 1. Fork the repository........
 
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
+
+3. Make a Pull Request (PR) via github and it will make u assure to learn github.
+=======
 1. Fork the repository..
 
 2. Append your username to the Contributers Section in this file in the following format:
@@ -15,7 +18,16 @@
 3. Make a Pull Request (PR) via github...
 3. Make a Pull Request (PR) via github..
 
+
 ## Contributors:
+
+
+
+=======
+-[@Raunakk02](https://github.com/Raunakk02)
+=======
+- [@Sac@github@2019](https://github.com/Sac@github@2019)
+
 - [@kunaljain0212](https://github.com/kunaljain0212)
 	
 - [@harshitkd](https://github.com/harshitkd)
@@ -26,6 +38,8 @@
 - [@bhch1507](https://github.com/bhch1507)
 
 - [@sahilahmed0707](https://github.com/sahilahmed0707)
+
+
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
@@ -112,6 +126,8 @@
 
 - [@Striker](https://github.com/Striker)
 
+- [@Mohit123singh](https://github.com/Mohit123singh)
+
 - [@sagastha](https://github.com/sagastha)
 
 - [@Piyush-Chetwani](https://github.com/Piyush-Chetwani)
@@ -126,6 +142,8 @@
 
 - [@AnimatedAnand](https://github.com/AnimatedAnand)
 
+- [@Shubh-2402](https://github.com/Shubh-2402)
+
 - [@Prime-5](https://github.com/Prime-5)
 
 - [@FLasH5858](https://github.com/FLasH5858)
@@ -138,6 +156,58 @@
 
 - [@rohitsigar](https://github.com/rohitsigar)
 =======
+
+=======
+- [@JithendraKanamarlapudi](https://github.com/JithendraKanamarlapudi)
+=======
+
+- [@4molybdenum2](https://github.com/4molybdenum2)
+
+- [@ravichopra0107](https://github.com/ravichopra0107)
+=======
+
+- [@anirudhgautam11](https://github.com/anirudhgautam11)
+=======
+
+
+- [@hitenSharm](https://github.com/hitenSharm)
+=======
+
+- [@Abhishek357](https://github.com/Abhishek357) :smile:
+=======
+
+- [@vpavankalyan](https://github.com/vpavankalyan)
+=======
+
+- [@Chaitanyab2001](https://github.com/Chaitanyab2001)
+=======
+- [@Hardik-Goyal](https://github.com/Hardik-Goyal) :smile::smile:
+=======
+
+- [@TRex3067](https://github.com/TRex3067)
+=======
+
+- [@adijr9487](https://github.com/adijr9487)
+=======
+
+- [@Swarnim01](https://github.com/Swarnim01)
+=======
+
+- [@shikhar15606](https://github.com/shikhar15606)
+=======
+
+- [@apurvpandey316](https://github.com/apurvpandey316)
+=======
+
+- [@kaustubh-029](https://github.com/kaustubh-029)
+=======
+
+-[@aditiii23](https://github.com/aditiii23)
+=======
+- [@Krishna-Gandhi](https://github.com/Krishna-Gandhi)
+
+
+
 
 - [@PrateekSingh009](https://github.com/PrateekSingh009)
 - [@manishprivet](https://github.com/manishprivet)
@@ -198,4 +268,6 @@
 
 -[@Magraa](https://github.com/Magraa)
 
+
 -[@shikhar2001](https://github.com/shikhar2001]
+=======
