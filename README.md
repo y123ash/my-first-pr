@@ -41,6 +41,10 @@
 - [@ashraygupta001](http://github.com/ashraygupta001)
 
 - [@bhanu3509](https://github.com/bhanu3509)
+
+- [@KartikShukla2001](https://github.com/KaritkShukla2001)
+
+
 - [@Sac@github@2019](https://github.com/Sac@github@2019)
 - [@sastava007](https://github.com/sastava007)
 
@@ -138,3 +142,4 @@
 
  - [@ajinkya359](https://github.com/ajinkya359)
 - [@harshitmoriya](https://github.com/Harshitmoriya)
+
