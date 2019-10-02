@@ -3,10 +3,11 @@
 
 ### Instructions:
 
-1. Fork the repository.
+1. Fork the repository..
 
 2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
+3. Make a Pull Request (PR) via github...
 3. Make a Pull Request (PR) via github..
 
 ## Contributors:
@@ -117,6 +118,9 @@
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
+
+- [@frozen-eagle043](https://github.com/frozen-eagle043)
+- fe43
 - [@ashish1198](https://github.com/ashish1198)
 
 - [@Samar787](https://github.com/Samar787)
