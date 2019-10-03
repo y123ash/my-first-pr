@@ -1,5 +1,5 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
-
+this repositry is made by the student for the purpose of getting a t-shirt. 
 
 
 
