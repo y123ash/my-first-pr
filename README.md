@@ -1,7 +1,12 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
+
+
+### Instructions:
+=======
 #### Instructions:
+
 
 1. Fork the repository..
 1. Fork the repository........
@@ -162,6 +167,23 @@
 =======
 
 
+- [@harshoo3](https://github.com/harshoo3)
+=======
+
+- [@29ravikant-akash](https://github.com/29ravikant-akash)
+=======
+- [@piyushgarg092](https://github.com/piyushgarg092)
+- [@piyushgarg092](https://github.com/piyushgarg092)
+=======
+
+
+- [@sushantbasak](https://github.com/sushantbasak)
+=======
+- [@Sarthak-23](https://github.com/Sarthak-23)
+- [@Sarthak-23](https://github.com/Sarthak-23)
+=======
+
+
 - [@ninad-0408](https://github.com/ninad-0408)
 =======
 
@@ -313,8 +335,6 @@
 =======
 -[@shikhar2001](https://github.com/shikhar2001]
 =======
-
-
 
 
 
