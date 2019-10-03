@@ -1,4 +1,5 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+ This repository consists of some contributors which made some changes in this and their pull request was accepted .
 
 
 ### Instructions:
