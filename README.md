@@ -77,6 +77,7 @@
 - [@ashraygupta001](http://github.com/ashraygupta001)
 
 - [@bhanu3509](https://github.com/bhanu3509)
+- [@jyotirmay2026](https://github.com/jyotirmay2026)
 
 - [Alok02Jha](https://github.com/Alok02Jha)
 -[@Alok02Jha](https://github.com/Alok02Jha)
