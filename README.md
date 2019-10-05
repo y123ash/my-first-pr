@@ -1,5 +1,10 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
+ This repository consists of some contributors which made some changes in this and their pull request was accepted .
+=======
+this repositry is made by the student for the purpose of getting a t-shirt. 
+this aasf repository accepts the pull  request
+
 
 
 
@@ -24,12 +29,12 @@
 3. Make a Pull Request (PR) via github..
 
 
-## Contributors:
+### Contributors:
 
 - [@rohitkv77-g](https://github.com/rohitkv77-g)
 =======
 
-
+- [@Sarthak-23](https://github.com/Sarthak-23)
 
 =======
 -[@Raunakk02](https://github.com/Raunakk02)
@@ -37,6 +42,7 @@
 - [@Sac@github@2019](https://github.com/Sac@github@2019)
 
 - [@kunaljain0212](https://github.com/kunaljain0212)
+- [@anirudh11gautam](https://github.com/anirudh11gautam)
 
 	
 - [@harshitkd](https://github.com/harshitkd)
@@ -77,6 +83,7 @@
 - [@ashraygupta001](http://github.com/ashraygupta001)
 
 - [@bhanu3509](https://github.com/bhanu3509)
+- [@jyotirmay2026](https://github.com/jyotirmay2026)
 
 - [Alok02Jha](https://github.com/Alok02Jha)
 -[@Alok02Jha](https://github.com/Alok02Jha)
@@ -334,8 +341,27 @@
 
 =======
 -[@shikhar2001](https://github.com/shikhar2001]
+======
+
+
+-{@sejaljain123](https://github.com/sejaljain123]
 =======
 
+-.[@jayantchaudhary002](https://github.com/jayantchaudhary002)
+=======
+
+-[@poorvi-vaish](https://github.com/poorvi-vaish] 
+=======
+
+-[@jnanatekumudi](https://github.com/jnanatekumudi)
+=======
+- [@echo-sg](https://github.com/echo-sg)
+
+
 - [@sushantkumar09](https://github.com/sushantkumar09]
+=======
+- [@kelvinosh](https://github.com/kelvinsoh)
+
+
 
 
