@@ -32,20 +32,19 @@ this aasf repository accepts the pull  request
 ### Contributors:
 
 - [@rohitkv77-g](https://github.com/rohitkv77-g)
-=======
 
 - [@Sarthak-23](https://github.com/Sarthak-23)
 
-=======
--[@Raunakk02](https://github.com/Raunakk02)
-=======
+- [@Raunakk02](https://github.com/Raunakk02)
+
 - [@Sac@github@2019](https://github.com/Sac@github@2019)
 
 - [@kunaljain0212](https://github.com/kunaljain0212)
-- [@anirudh11gautam](https://github.com/anirudh11gautam)
 
+- [@anirudh11gautam](https://github.com/anirudh11gautam)
 	
 - [@harshitkd](https://github.com/harshitkd)
+
 - [@dhananjay510](https://github.com/dhananjay510)
 
 - [@AlternateF4](https://github.com/AlternateF4)
@@ -53,8 +52,6 @@ this aasf repository accepts the pull  request
 - [@bhch1507](https://github.com/bhch1507)
 
 - [@sahilahmed0707](https://github.com/sahilahmed0707)
-
-
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
@@ -76,24 +73,24 @@ this aasf repository accepts the pull  request
 
 - [@blair-d](https://github.com/blair-d)
 
--[@Gurjotsingh2002](https://github.com/Gurjotsingh2002)
+- [@Gurjotsingh2002](https://github.com/Gurjotsingh2002)
 
 - [@balu14012001](https://github.com/BALAJIRAO676)
 
 - [@ashraygupta001](http://github.com/ashraygupta001)
 
 - [@bhanu3509](https://github.com/bhanu3509)
+
 - [@jyotirmay2026](https://github.com/jyotirmay2026)
 
-- [Alok02Jha](https://github.com/Alok02Jha)
--[@Alok02Jha](https://github.com/Alok02Jha)
+- [@Alok02Jha](https://github.com/Alok02Jha)
 
 - [@nehalgupta13](https://github.com/nehalgupta13)
 
 - [@KartikShukla2001](https://github.com/KaritkShukla2001)
 
-
 - [@Sac@github@2019](https://github.com/Sac@github@2019)
+
 - [@sastava007](https://github.com/sastava007)
 
 - [@sar99](https://github.com/sar99)
@@ -164,209 +161,160 @@ this aasf repository accepts the pull  request
 
 - [@FLasH5858](https://github.com/FLasH5858)
 
-- [@BroCodeClan](https://github.com/BroCodeClan) :smile:
+- [@BroCodeClan](https://github.com/BroCodeClan)
 
 - [@Helkat](https://github.com/Helkat)
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
 - [@Namanl2001](https://github.com/Namanl2001)
-=======
-
 
 - [@harshoo3](https://github.com/harshoo3)
-=======
 
 - [@29ravikant-akash](https://github.com/29ravikant-akash)
-=======
-- [@piyushgarg092](https://github.com/piyushgarg092)
-- [@piyushgarg092](https://github.com/piyushgarg092)
-=======
 
+- [@piyushgarg092](https://github.com/piyushgarg092)
 
 - [@sushantbasak](https://github.com/sushantbasak)
-=======
-- [@Sarthak-23](https://github.com/Sarthak-23)
-- [@Sarthak-23](https://github.com/Sarthak-23)
-=======
 
+- [@Sarthak-23](https://github.com/Sarthak-23)
 
 - [@ninad-0408](https://github.com/ninad-0408)
-=======
-
 
 - [@aaryak-shah](https://github.com/aaryak-shah)
-=======
 
+- [@1209simran](https://github.com/1209simran)
 
-- [@1209simran] (https://github.com/1209simran)
-=======
-=======
 - [@pranshu-s18](https://github.com/pranshu-s18)
-=======
- 
-- [@kavish6](https://github.com/kavish6)
-=======
 
+- [@kavish6](https://github.com/kavish6)
 
 - [@savi-1311](https://github.com/savi-1311)
-=======
-- [@SturatRyder](https://github.com/SturatRyder)
-=======
 
+- [@SturatRyder](https://github.com/SturatRyder)
 
 - [@sarthakverma12](https://github.com/sarthakverma12)
-=======
+
 - [@rohitsigar](https://github.com/rohitsigar)
-=======
 
-
-=======
 - [@JithendraKanamarlapudi](https://github.com/JithendraKanamarlapudi)
-=======
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
 - [@ravichopra0107](https://github.com/ravichopra0107)
-=======
 
 - [@anirudhgautam11](https://github.com/anirudhgautam11)
-=======
-
 
 - [@hitenSharm](https://github.com/hitenSharm)
-=======
 
-- [@Abhishek357](https://github.com/Abhishek357) :smile:
-=======
+- [@Abhishek357](https://github.com/Abhishek357)
 
 - [@vpavankalyan](https://github.com/vpavankalyan)
-=======
 
 - [@Chaitanyab2001](https://github.com/Chaitanyab2001)
-=======
-- [@Hardik-Goyal](https://github.com/Hardik-Goyal) :smile::smile:
-=======
+
+- [@Hardik-Goyal](https://github.com/Hardik-Goyal)
 
 - [@TRex3067](https://github.com/TRex3067)
-=======
 
 - [@adijr9487](https://github.com/adijr9487)
-=======
 
 - [@Swarnim01](https://github.com/Swarnim01)
-=======
 
 - [@shikhar15606](https://github.com/shikhar15606)
-=======
 
 - [@apurvpandey316](https://github.com/apurvpandey316)
-=======
 
 - [@kaustubh-029](https://github.com/kaustubh-029)
-=======
 
--[@aditiii23](https://github.com/aditiii23)
-=======
+- [@aditiii23](https://github.com/aditiii23)
+
 - [@Krishna-Gandhi](https://github.com/Krishna-Gandhi)
 
-
-
-
-
 - [@PrateekSingh009](https://github.com/PrateekSingh009)
+
 - [@manishprivet](https://github.com/manishprivet)
-- [@klakshya17] (https://github.com/klakshya17)
-- [@klakshya17] (https://github.com/klakshya17)
+
+- [@klakshya17](https://github.com/klakshya17)
+
 - [@ImAkhil24](https://github.com/ImAkhil24)
+
 - [@jayraikhere](https://github.com/jayraikhere)
 
 - [@P0l0nium](https://github.com/P0l0nium)
 
 - [@nafees87n](https://github.com/nafees87n)
 
--[@akarsh2312](https://githhub.com/akarsh2312)
+- [@akarsh2312](https://githhub.com/akarsh2312)
+
 - [@aikansh2001yadav](https://github.com/aikansh2001yadav)
 
-
 - [@niketan-byte](https://github.comm/niketan-byte)
-- [@niketan-byte](https://github.comm/niketan-byte)
-- [@4molybdenum2](https://github.com/4molybdenum2)
-- [@hs2361](https://github.com/hs2361) :smile:
 
 - [@4molybdenum2](https://github.com/4molybdenum2)
 
-- [@4molybdenum2](https://github.com/4molybdenum2)
+- [@hs2361](https://github.com/hs2361)
 
 - [@SRiYaa](https://github.com/SRiYaa)
--
+
 - [@mnithinreddy](https://github.com/mnithinreddy)
+
 - [@frozen-eagle043](https://github.com/frozen-eagle043)
-- fe43
+
 - [@ashish1198](https://github.com/ashish1198)
 
 - [@Samar787](https://github.com/Samar787)
-- [@vishnuiiit](https://github.com/vishnuiiit)
 
+- [@vishnuiiit](https://github.com/vishnuiiit)
 
 - [@aditisingh2362](https://github.com/aditisingh2362)
 
 - [@DivyanshFalodiya](https://github.com/DivyanshFalodiya)
 
--[@aditiii23](https://github.com/aditiii23)
--[@akshat45](https://github.com/akshat45)
+- [@aditiii23](https://github.com/aditiii23)
+
+- [@akshat45](https://github.com/akshat45)
 
 - [@deependrayadav](https://github.com/deependrayadav)
--[@Niketan0109](https://github.com/Niketan0109
--[@raikherejay](https;//github.com/raikherejay)
 
+- [@Niketan0109](https://github.com/Niketan0109)
 
--[@palakjain21](http://github.com/palakjain21)
--[@akshat45](https://github.com/akshat45)
+- [@raikherejay](https;//github.com/raikherejay)
+
+- [@palakjain21](http://github.com/palakjain21)
+
+- [@akshat45](https://github.com/akshat45)
+
 - [@karthikianala](https://github.com/karthikianala)
--[@pranav-msc](https://github.com/pranav-msc)
 
- - [@ajinkya359](https://github.com/ajinkya359)
- - [@ajinkya359](https://github.com/ajinkya359)
- 
- - [@ajinkya359](https://github.com/ajinkya359)
+- [@pranav-msc](https://github.com/pranav-msc)
 
- - [@ajinkya359](https://github.com/ajinkya359)
+- [@ajinkya359](https://github.com/ajinkya359)
+
 - [@harshitmoriya](https://github.com/Harshitmoriya)
 
--[@Magraa](https://github.com/Magraa)
--[@helloworld](https://github.com/shivam1192)
+- [@Magraa](https://github.com/Magraa)
 
--[@shikhar2001](https://github.com/shikhar2001]
-=======
+- [@helloworld](https://github.com/shivam1192)
 
+- [@shikhar2001](https://github.com/shikhar2001)
 
-=======
--[@shikhar2001](https://github.com/shikhar2001]
-======
+- [@sejaljain123](https://github.com/sejaljain123)
 
+- [@jayantchaudhary002](https://github.com/jayantchaudhary002)
 
--{@sejaljain123](https://github.com/sejaljain123]
-=======
+- [@king-era](https://github.com/king-era)
 
--.[@jayantchaudhary002](https://github.com/jayantchaudhary002)
-=======
+- [@poorvi-vaish](https://github.com/poorvi-vaish)
 
--[@king-era](https://github.com/king-era)
-=======
+- [@jnanatekumudi](https://github.com/jnanatekumudi)
 
--[@poorvi-vaish](https://github.com/poorvi-vaish] 
-=======
-
--[@jnanatekumudi](https://github.com/jnanatekumudi)
-=======
 - [@echo-sg](https://github.com/echo-sg)
 
+- [@sushantkumar09](https://github.com/sushantkumar09)
 
-- [@sushantkumar09](https://github.com/sushantkumar09]
+- [@adityaa1510](https://github.com/adityaa1510)
 
--[@adityaa1510](https://github.com/adityaa1510]
-=======
 - [@kelvinosh](https://github.com/kelvinsoh)
 
 
